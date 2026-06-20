@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently dipping my feet in Generative AI and its applications in our daily world.<br>I am looking forward to collaborations of any intriguing projects pertaining to AI/ML. I also wish to get some exposure in the same.<br>I am also highly interested in subjects like Human Behavior, Socio-cultural evolution of human civilization and mild philosophy. <br>If you got anything that combines the above with Code, I'm your man
+"I love good food. Low test_accuracy leaves a bad taste in my mouth"
+Currently working on Generative/Agentic AI and its applications.<br>Looking forward to collaborations in any intriguing projects pertaining to AI/ML. I also wish to get some exposure in the same.<br>Highly interested in mild-philosophy, psyche and socio-cult aspects of our world. <br>If you got anything that combines the above with Code, I'm your man
 
 
 ## 🌐 Socials:
